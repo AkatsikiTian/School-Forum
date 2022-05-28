@@ -1,0 +1,16 @@
+{
+  "id": "3413185",
+  "name": "test",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5387377",
+      "name": "标签",
+      "font_class": "biaoqian",
+      "unicode": "eabd",
+      "unicode_decimal": 60093
+    }
+  ]
+}

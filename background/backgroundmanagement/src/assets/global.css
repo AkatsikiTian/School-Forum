@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.mr-5{
+    margin-right: 5px;
+}
+.mr-15{
+    margin-right: 15px;
+}
+.ml-5{
+    margin-left: 5px;
+}
+.ml-15{
+    margin-left: 15px;
+}
+.mt-10{
+    margin-top: 10px;
+}
+.pd-10{
+    padding: 10px 0;
+}
