@@ -4,7 +4,7 @@
 
 ***\*主页\****
 
-![img](file:///[.](https://github.com/AkatsikiTian/School-Forum/blob/master/ksohtml297/wps1.jpg)
+![img](file:///https://github.com/AkatsikiTian/School-Forum/blob/master/ksohtml297/wps1.jpg)
 
 ***\*图2-21 主页\**** 
 
