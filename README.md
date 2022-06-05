@@ -40,7 +40,7 @@
 
 ***\*用户端注册页面\****
 
-![img](file:///.\ksohtml2976\wps2.jpg) 
+![img](https://github.com/AkatsikiTian/School-Forum/blob/master/ksohtml2976/wps2.jpg) 
 
 ***\*图2-22 用户端注册页面\**** 
 
@@ -88,7 +88,7 @@
 
 ***\*用户\*******\*端\*******\*登录界面\****
 
-![img](file:///.\ksohtml2976\wps3.jpg) 
+![img](https://github.com/AkatsikiTian/School-Forum/blob/master/ksohtml2976/wps3.jpg) 
 
 ***\*图2-23 用户端登录界面\**** 
 
@@ -118,7 +118,7 @@
 
 ***\*管理员登录界面\****
 
-![img](file:///.\ksohtml2976\wps4.jpg) 
+![img](https://github.com/AkatsikiTian/School-Forum/blob/master/ksohtml2976/wps4.jpg) 
 
 ***\*图2-24\**** ***\*管理员登录界面\**** 
 
@@ -148,7 +148,7 @@
 
 ***\*修改个人信息页面\****
 
-![img](file:///.\ksohtml2976\wps5.jpg) 
+![img](https://github.com/AkatsikiTian/School-Forum/blob/master/ksohtml2976/wps5.jpg) 
 
 ***\*图2-25\**** ***\*修改个人信息页面\**** 
 
@@ -182,7 +182,7 @@
 
 ***\*修改密码界面\****
 
-![img](file:///.\ksohtml2976\wps6.jpg) 
+![img](https://github.com/AkatsikiTian/School-Forum/blob/master/ksohtml2976/wps6.jpg) 
 
 ***\*图2-26\**** ***\*修改密码\*******\*界面\**** 
 
@@ -214,7 +214,7 @@
 
 ***\*文章分类\****
 
-![img](file:///.\ksohtml2976\wps7.jpg) 
+![img](https://github.com/AkatsikiTian/School-Forum/blob/master/ksohtml2976/wps7.jpg) 
 
 ***\*图2-27\**** ***\*文章分类\*******\*界面\**** 
 
@@ -244,7 +244,7 @@
 
 ***\*标签分类\****
 
-![img](file:///.\ksohtml2976\wps8.jpg) 
+![img](https://github.com/AkatsikiTian/School-Forum/blob/master/ksohtml2976/wps8.jpg) 
 
 ***\*图2-28\**** ***\*标签分类\*******\*界面\**** 
 
@@ -274,7 +274,7 @@
 
 ***\*文章分类下的帖子内容\****
 
-![img](file:///.\ksohtml2976\wps9.jpg) 
+![img](https://github.com/AkatsikiTian/School-Forum/blob/master/ksohtml2976/wps9.jpg) 
 
 ***\*图2-29\**** ***\*文章分类详情\*******\*界面\**** 
 
@@ -304,7 +304,7 @@
 
 ***\*文章归档：\****
 
-![img](file:///.\ksohtml2976\wps10.jpg) 
+![img](https://github.com/AkatsikiTian/School-Forum/blob/master/ksohtml2976/wps10.jpg) 
 
 ***\*图2-30\**** ***\*文章归档\*******\*界面\**** 
 
@@ -336,9 +336,9 @@
 
 ***\*写文章页面\****
 
-![img](file:///.\ksohtml2976\wps11.jpg) 
+![img](https://github.com/AkatsikiTian/School-Forum/blob/master/ksohtml2976/wps11.jpg) 
 
-![img](file:///.\ksohtml2976\wps12.jpg) 
+![img](https://github.com/AkatsikiTian/School-Forum/blob/master/ksohtml2976/wps12.jpg) 
 
 ***\*图2-31\**** ***\*写文章\*******\*界面\**** 
 
@@ -367,7 +367,7 @@
 
 ***\*文章详情页面\****
 
-![img](file:///.\ksohtml2976\wps13.jpg) 
+![img](https://github.com/AkatsikiTian/School-Forum/blob/master/ksohtml2976/wps13.jpg) 
 
 ***\*图2-32\**** ***\*文章详情\*******\*界面\**** 
 
@@ -399,9 +399,9 @@
 
 ***\*用户管理页面\****
 
-![img](file:///.\ksohtml2976\wps14.jpg) 
+![img](https://github.com/AkatsikiTian/School-Forum/blob/master/ksohtml2976/wps14.jpg) 
 
-![img](file:///.\ksohtml2976\wps15.jpg) 
+![img](https://github.com/AkatsikiTian/School-Forum/blob/master/ksohtml2976/wps15.jpg) 
 
 ***\*图2-33\**** ***\*用户管理\*******\*界面\**** 
 
@@ -441,11 +441,11 @@
 
 ***\*标签管理页面\****
 
-![img](file:///.\ksohtml2976\wps16.jpg)![img](file:///.\ksohtml2976\wps17.jpg) 
+![img](https://github.com/AkatsikiTian/School-Forum/blob/master/ksohtml2976/wps16.jpg)![img](https://github.com/AkatsikiTian/School-Forum/blob/master/ksohtml2976/wps17.jpg) 
 
  
 
-![img](file:///C:\Users\54456\AppData\Local\Temp\ksohtml2976\wps18.jpg) 
+![img](https://github.com/AkatsikiTian/School-Forum/blob/master/ksohtml2976/wps18.jpg) 
 
 ***\*图2-34\**** ***\*标签管理\*******\*界面\**** 
 
@@ -487,11 +487,11 @@
 
 ***\*文章分类管理页面\****
 
-![img](file:///.\wps19.jpg) 
+![img](https://github.com/AkatsikiTian/School-Forum/blob/master/ksohtml2976/wps19.jpg) 
 
-![img](file:///.\ksohtml2976\wps20.jpg) 
+![img](https://github.com/AkatsikiTian/School-Forum/blob/master/ksohtml2976/wps20.jpg) 
 
-![img](file:///.\ksohtml2976\wps21.jpg) 
+![img](https://github.com/AkatsikiTian/School-Forum/blob/master/ksohtml2976/wps21.jpg) 
 
 ***\*图2-35\**** ***\*文章分类管理\*******\*界面\**** 
 
@@ -527,7 +527,7 @@
 
 ***\*帖子管理页面\****
 
-![img](file:///.\ksohtml2976\wps22.jpg) 
+![img](https://github.com/AkatsikiTian/School-Forum/blob/master/ksohtml2976/wps22.jpg) 
 
 ***\*图2-36\**** ***\*帖子管理\*******\*界面\**** 
 
@@ -563,7 +563,7 @@
 
 ***\*帖子审核：\****
 
-![img](file:///.\ksohtml2976\wps23.jpg) 
+![img](https://github.com/AkatsikiTian/School-Forum/blob/master/ksohtml2976/wps23.jpg) 
 
 ***\*图2-37\**** ***\*帖子审核\*******\*界面\**** 
 
